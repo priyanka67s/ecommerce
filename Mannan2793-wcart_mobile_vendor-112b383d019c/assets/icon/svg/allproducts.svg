@@ -1,0 +1,28 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+      }
+
+      .cls-1 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <title>all products</title>
+  <g>
+    <polyline class="cls-1" points="7.24 15.14 23.81 22.65 30.16 20"/>
+    <line class="cls-1" x1="24" y1="41.5" x2="23.81" y2="22.65"/>
+    <polyline class="cls-2" points="31.29 11.18 23.81 7.21 7.24 15.14 7.24 34.34 24.24 42.27 40.39 34.44 40.39 25.4"/>
+    <path class="cls-1" d="M31.29,11.18a9.16,9.16,0,1,1,9.1,14.22"/>
+    <path class="cls-1" d="M31.29,11.18a9.16,9.16,0,0,0,7.54,14.38,9,9,0,0,0,1.56-.16"/>
+    <polyline class="cls-2" points="35.02 16.88 38.56 20.41 42.19 12.2"/>
+  </g>
+</svg>
